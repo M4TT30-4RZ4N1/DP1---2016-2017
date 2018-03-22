@@ -1,0 +1,18 @@
+input { 
+    text-align: center; 
+}
+#massima {
+    text-align: center;
+    color: green;
+   
+}
+
+#superata{
+    text-align: center;
+    color: red;
+ 
+}
+
+body{
+	 font-family: sans-serif, ;
+}
